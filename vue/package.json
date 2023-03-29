@@ -1,13 +1,13 @@
 {
-  "name": "ri-icons-vue",
+  "name": "@remix-ui/icons-vue",
   "version": "1.0.0",
-  "description": "Vue components of Ri Icons collection.",
+  "description": "Vue components of Remix Icons collection.",
   "type": "module",
   "keywords": [
     "icon",
     "svg",
     "vue",
-    "ri-icons-vue"
+    "@remix-ui/icons-vue"
   ],
   "license": "MIT",
   "repository": {
