@@ -10,15 +10,16 @@
     "ri-icons-vue"
   ],
   "license": "MIT",
-  "homepage": "https://element-plus.org/",
-  "bugs": {
-    "url": "https://github.com/element-plus/element-plus-icons/issues"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/element-plus/element-plus-icons.git",
+    "url": "git+https://github.com/siaoynli/ri-icon-vue.git",
     "directory": "packages/vue"
   },
+  "author": "siaoynli",
+  "bugs": {
+    "url": "https://github.com/siaoynli/ri-icon-vue/issues"
+  },
+  "homepage": "https://github.com/siaoynli/ri-icon-vue#readme",
   "files": [
     "dist"
   ],
